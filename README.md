@@ -43,5 +43,26 @@ With extensive experience in backend development, I’ve worked on a variety of 
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
- <img align="left" alt="my stats" width="54%" src="https://github-readme-stats.vercel.app/api?username=rahmakhaled1&show_icons=true" />
- <img align="left" alt="my stats" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmakhaled1&layout=compact" />
+<div align="center">
+  <!-- GitHub Stats -->
+  <img alt="Rahma's GitHub Stats" width="54%" src="https://github-readme-stats.vercel.app/api?username=rahmakhaled1&show_icons=true&count_private=true&include_all_commits=true" />
+  
+  <!-- Top Languages -->
+  <img alt="Top Languages" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmakhaled1&layout=compact&langs_count=8" />
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <!-- PRs Badge -->
+  <img src="https://img.shields.io/badge/Total%20PRs-27-brightgreen?style=for-the-badge&logo=github" alt="Total PRs" />
+  
+  <!-- Issues Badge -->
+  <img src="https://img.shields.io/badge/Issues-0-blue?style=for-the-badge&logo=github" alt="Issues" />
+  
+  <!-- Stars Badge -->
+  <img src="https://img.shields.io/badge/Stars-0-yellow?style=for-the-badge&logo=github" alt="Stars" />
+  
+</div>
+
