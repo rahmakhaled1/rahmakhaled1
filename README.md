@@ -13,7 +13,7 @@ With extensive experience in backend development, I’ve worked on a variety of 
 <br/>
 
 <div align="center"> 
-  <a href="mailto:rahmakhaaleed@gmail.com">
+  <a href="raahmaakhaaleed@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 
