@@ -13,9 +13,10 @@ With extensive experience in backend development, I’ve worked on a variety of 
 <br/>
 
 <div align="center"> 
-  <a href="raahmaakhaaleed@gmail.com">
+ <a href="mailto:raahmaakhaaleed@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+ </a>
+
 
   <a href="https://www.linkedin.com/in/rahma-khaled1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
