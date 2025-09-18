@@ -21,7 +21,7 @@ With extensive experience in backend development, I’ve worked on a variety of 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
-  <a href="https://drive.google.com/file/d/xxxx/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/19FQvcvjk2sY4SI0J8g1eTn7ZkDJKQ_Gp/view?usp=sharing" target="_blank">
      <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </div>
