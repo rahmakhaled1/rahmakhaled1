@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=38&center=true&vCenter=true&width=600&height=70&duration=4000&color=8A2BE2&lines=Hey+there,+I'm+Rahma+Khaled!;Backend+Developer+%7C+Laravel+%26+PHP;Crafting+Powerful+Digital+Backends✨" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=38&center=true&vCenter=true&width=850&height=70&duration=4000&color=8A2BE2&lines=Hey+there,+I'm+Rahma+Khaled!;Backend+Developer+%7C+Laravel+%26+PHP;Crafting+Powerful+Digital+Backends⚙️" />
 </h1>
 
 <h3 align="center">
@@ -39,6 +39,11 @@ I specialize in <b>Laravel, PHP, and API design</b> — focusing on <b>clean arc
   <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,tailwind,jquery,redis,mysql,aws,firebase,git,vscode&theme=light" />
 </div>
 
+<!-- Subtle Animation -->
+<div align="center">
+  <img src="https://github.com/rahmakhaled1/rahmakhaled1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
 <br/>
 
 ---
@@ -46,15 +51,15 @@ I specialize in <b>Laravel, PHP, and API design</b> — focusing on <b>clean arc
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Highlights 📊</h2>
 <div align="center">
-  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=rahmakhaled1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmakhaled1&layout=compact&theme=tokyonight&langs_count=8" />
+  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=rahmakhaled1&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmakhaled1&layout=compact&theme=radical&langs_count=8" />
 </div>
 
 <br/>
 
 <!-- Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rahmakhaled1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rahmakhaled1&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -63,8 +68,8 @@ I specialize in <b>Laravel, PHP, and API design</b> — focusing on <b>clean arc
 
 <!-- Badges Section -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20PRs-27-7F00FF?style=for-the-badge&logo=github" alt="Total PRs" />
-  <img src="https://img.shields.io/badge/Issues-0-2196F3?style=for-the-badge&logo=github" alt="Issues" />
+  <img src="https://img.shields.io/badge/Total%20PRs-27-8A2BE2?style=for-the-badge&logo=github" alt="Total PRs" />
+  <img src="https://img.shields.io/badge/Issues-0-5C6BC0?style=for-the-badge&logo=github" alt="Issues" />
   <img src="https://img.shields.io/badge/Stars-0-FFB300?style=for-the-badge&logo=github" alt="Stars" />
 </div>
 
@@ -72,5 +77,5 @@ I specialize in <b>Laravel, PHP, and API design</b> — focusing on <b>clean arc
 
 <!-- Footer Quote -->
 <h3 align="center" style="color:#8A2BE2;">
-✨ “Turning complex logic into elegant backend magic.” ✨
+🧩 “Turning complex logic into elegant backend magic.” 🧩
 </h3>
