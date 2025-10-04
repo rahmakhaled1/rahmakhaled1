@@ -41,7 +41,8 @@ I specialize in <b>Laravel, PHP, and API design</b> — focusing on <b>clean arc
 
 <!-- Subtle Animation -->
 <div align="center">
-  <img src="https://github.com/rahmakhaled1/rahmakhaled1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/rahmakhaled1/rahmakhaled1/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
 </div>
 
 <br/>
