@@ -25,7 +25,7 @@ I specialize in <b>Laravel, PHP, and API design</b> — focusing on <b>clean arc
   <a href="https://www.linkedin.com/in/rahma-khaled1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-5C6BC0?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://drive.google.com/file/d/19FQvcvjk2sY4SI0J8g1eTn7ZkDJKQ_Gp/view?usp=sharing" target="_blank](https://drive.google.com/file/d/1jN9kFI0gr2Y5ERCuIP5Rrr8Qs4EGEJS2/view?usp=sharing)">
+  <a href="https://drive.google.com/file/d/1jN9kFI0gr2Y5ERCuIP5Rrr8Qs4EGEJS2/view">
     <img src="https://img.shields.io/badge/Resume-F06292?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </div>
